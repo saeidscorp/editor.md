@@ -209,6 +209,7 @@ var codeMirror = {
         "shell",
         "sql",
         "clike",
+        "clojure",
         "php",
         "xml",
         "markdown",
